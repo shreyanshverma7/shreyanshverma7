@@ -1,3 +1,4 @@
+![MasterHead](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=2000&t=st=1716692242~exp=1716692842~hmac=e377dae4104d5e3d724c904601e673d885f93eb7f7c60458bd2c357b46f3f15b)
 <h1 align="center">Hi 👋, I'm Shreyansh Verma</h1>
 <h3 align="center">Multidisciplinary Explorer: Data × Design × Adventure</h3>
 
@@ -7,7 +8,7 @@ Join me on this exhilarating journey 🚀 as we push the boundaries of what's po
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshverma7&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshverma7" /> </p>
 
-<img align="right" height="325" width="450" alt="" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" height="325" width="450" alt="" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif"/>
 
 ### Let's Connect on Data Science and More!
 
