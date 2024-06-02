@@ -1,4 +1,4 @@
-<!-->![MasterHead](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=2000&t=st=1716692242~exp=1716692842~hmac=e377dae4104d5e3d724c904601e673d885f93eb7f7c60458bd2c357b46f3f15b)
+<!-- ![MasterHead](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=2000&t=st=1716692242~exp=1716692842~hmac=e377dae4104d5e3d724c904601e673d885f93eb7f7c60458bd2c357b46f3f15b) -->
 <h1 align="center">Hi 👋, I'm Shreyansh Verma</h1>
 <h3 align="center">Multidisciplinary Explorer: Data × Design × Adventure</h3>
 
