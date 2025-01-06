@@ -17,7 +17,7 @@ Join me on this exhilarating journey 🚀 as we push the boundaries of what's po
 - 👨🏻‍💻 &nbsp; Explore my projects on [Kaggle](https://www.kaggle.com/shreyanshverma27).
 - 🎮 &nbsp; Besides data, I'm a gaming enthusiast. Let's chat about your favorite games!
 - 📫 &nbsp; Reach out to me at shreyanshv97@gmail.com.
-- 📝 &nbsp; Take a look at my [Resume](https://drive.google.com/file/d/1erDSxlaZmMK8Zhv9MQ3qA5E1pMFmmJga/view?usp=sharing).
+- 📝 &nbsp; Take a look at my [Resume](https://drive.google.com/file/d/12_6VLdqtK5FI8lnDdHEJ5Fv6w7cI9bCW/view?usp=sharing).
 
 ### Hobbies:
 
